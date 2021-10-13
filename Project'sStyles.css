@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+/*HTML and body styles*/
+a:link, a:visited {
+	color: rgb(158, 59, 75);
+	text-decoration: none;
+}
+a:hover, a:active {
+	color: gray;
+	text-decoration: underline;
+}
+
+body {
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
