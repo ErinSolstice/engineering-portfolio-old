@@ -2,11 +2,11 @@
 
 /*HTML and body styles*/
 a:link, a:visited {
-	color: rgb(158, 59, 75);
+	color: rgb(65,105,225);
 	text-decoration: none;
 }
 a:hover, a:active {
-	color: gray;
+	color: rgb(0,170,228);
 	text-decoration: underline;
 }
 
