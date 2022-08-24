@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Patrick Herke"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I'll try just about anything twice."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
