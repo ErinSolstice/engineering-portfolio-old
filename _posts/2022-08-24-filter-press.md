@@ -1,3 +1,11 @@
+---
+title: "Filter Press Troubleshooting"
+categories:
+    - internship
+tags:
+    - materials
+---
+
 The plates of the filter press were undergoing significant warping resulting in poor filtering, bypass, and leakage.  Filter press plates should not need to be regularly replaced, but they were replacing the entire set every 3-5 months for ~$12,000 each time.
 
 Examining the filter press manual thoroughly, I discovered that toluene, one of the process chemicals, was listed as chemically incompatible with the polypropylene plates. Consultation with the manufacturer indicated that the toluene in the slurry was likely chemically attacking the polypropylene plates and causing them to soften and warp; then, uneven cake buildup started occurring which accelerated the process.  Fortunately, the plates could be made from alternative materials such as PVDF and Glass Filled Nylon.

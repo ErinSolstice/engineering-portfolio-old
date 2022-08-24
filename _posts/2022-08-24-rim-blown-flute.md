@@ -1,3 +1,11 @@
+---
+title: "Anasazi Style Rim-blown Flute"
+categories:
+    - personal project
+tags:
+    - instruments
+---
+
 My goal with this project was to design, build, and learn to play a rim-blown flute based on the Anasazi flutes found in the American Southwest. The original idea sprung from a chance encounter with whistles made from elderberry wood which led down a rabbit hole into full blown flute making.
 
 Hollowing out the elderberry branch was relatively simple as the center is a soft pith. However, before I could tune a rim-blown flute, I first needed to teach myself how to play one. I had played the viola for several years but had never played a wind instrument.
