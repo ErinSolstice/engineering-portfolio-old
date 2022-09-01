@@ -4,9 +4,11 @@ categories:
     - personal project
 tags:
     - instruments
+youtubeId: bb7d3VP3vYQ
 ---
 
-![Playing a custom composition on an Anasazi Style rim-blown flute while outdoors.]({{"/assets/flute-project-photos/rim-blown-flute.mp4" | relative_url}})
+{% include youtubePlayer.html id=page.youtubeId %}
+*Playing a custom composition on an Anasazi Style rim-blown flute while outdoors.*
 
 My goal with this project was to design, build, and learn to play a rim-blown flute based on the Anasazi flutes found in the American Southwest. The original idea sprung from a chance encounter with whistles made from elderberry wood which led down a rabbit hole into full blown flute making.
 
