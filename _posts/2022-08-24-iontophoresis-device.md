@@ -4,7 +4,7 @@ categories:
     - personal project
 tags:
     - electronics
-youtubeId: bb7d3VP3vYQ
+youtubeId: 5xvp_0NI6Zk
 ---
 
 One of the accepted treatments for hyperhidrosis (excessive sweating) is iontophoresis. Iontophoresis involves running a small current through the hands, feet, or armpits of the patient. Some people set the current whereas others set the voltage for a session. I wanted to see if these control methods were equivalent. Safety concerns around the body and electricity are obviously very important and complicated. RA Fischer, a manufacturer of an FDA approved device, has max settings of 30mA and 58V. To be on the safe side, I chose to use only 9V in my tests.
