@@ -28,16 +28,12 @@ To test the device, I placed my hands in the two plastic containers with aluminu
 
 Despite having a fairly constant voltage at about 8.5V, the current present in the circuit varied from 2mA-4.5mA through the 10-minute session. Clearly a constant voltage does not equate to a constant current.  What remains unclear is whether controlling the voltage, the current, or some other parameter such as total charge (i.e. current×time) works best.
 
-![Graph of the voltage during the session.]({{"/assets/iontophoresis/voltage.png" | relative_url}}){:height="36px" width="36px"}
+![Graph of the voltage during the session.]({{"/assets/iontophoresis/voltage.png" | relative_url}}){:height="36px" width="36px"}    ![Graph of the current during the session.]({{"/assets/iontophoresis/current.png" | relative_url}}){:height="100px" width="200px"}
+
+![Graph of the resistance during the session.]({{"/assets/iontophoresis/resistance.png" | relative_url}}){:height="50%" width="50%"}    ![Graph of the power during the session.]({{"/assets/iontophoresis/power.png" | relative_url}}){:height="20%" width="20%"}
 *Graph of the voltage during the session.*
-
-![Graph of the current during the session.]({{"/assets/iontophoresis/current.png" | relative_url}}){:height="100px" width="200px"}
 *Graph of the current during the session.*
-
-![Graph of the resistance during the session.]({{"/assets/iontophoresis/resistance.png" | relative_url}}){:height="50%" width="50%"}
 *Graph of the resistance during the session.*
-
-![Graph of the power during the session.]({{"/assets/iontophoresis/power.png" | relative_url}}){:height="20%" width="20%"}
 *Graph of the power during the session.*
 
 {% include youtubePlayer.html id=page.youtubeId %}
