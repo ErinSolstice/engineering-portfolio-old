@@ -11,6 +11,7 @@ One of the accepted treatments for hyperhidrosis (excessive sweating) is iontoph
 
 ![Start up screen.]({{"/assets/iontophoresis/start-screen.jpg" | relative_url}})
 *Start up screen.*
+
 ![Session screen.]({{"/assets/iontophoresis/session-screen.jpg" | relative_url}})
 *Session screen.*
 
@@ -19,7 +20,9 @@ I used a raspberry pi, a bundled voltage/current sensor, and a 9V battery. I add
 To test the device, I placed my hands in the two plastic containers with aluminum foil electrodes covered by paper towels and just enough tap water to cover my palms. (I also added a ¼ teaspoon each of salt and backing soda as our water has a low mineral content.)
 
 ![Breadboard with potentiometers.]({{"/assets/iontophoresis/breadboard-potentiometer.jpg" | relative_url}})
+
 ![Breadboard with screen and buttons.]({{"/assets/iontophoresis/breadboard.jpg" | relative_url}})
+
 ![Full setup of iontophoresis device.]({{"/assets/iontophoresis/full-setup.jpg" | relative_url}})
 *Setup of the testing circuit and iontophoresis device.  Shows two 9V batteries, however, in the end only one was used.*
 

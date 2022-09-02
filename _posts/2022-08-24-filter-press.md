@@ -8,19 +8,14 @@ tags:
 
 The plates of the filter press were undergoing significant warping resulting in poor filtering, bypass, and leakage.  Filter press plates should not need to be regularly replaced, but they were replacing the entire set every 3-5 months for ~$12,000 each time.
 
-
 ![Leaking filter press.]({{"/assets/wrGrace/filterPress/leaking-press.png" | relative_url}})
 *Leaking of filter press. All pictures were taken ~1 week before plate swap.*
-
-
 
 ![Bowed filter press plates.]({{"/assets/wrGrace/filterPress/bowing-plates-1.png" | relative_url}})
 *Roughly middle of stack. Shows plates bowing inward towards the center. Most visible by looking at top edge of plate.*
 
-
 ![Cake material from filter press.]({{"/assets/wrGrace/filterPress/cake-material.png" | relative_url}})
 *Cake material from filter press with high liquid content.*
-
 
 Examining the filter press manual thoroughly, I discovered that toluene, one of the process chemicals, was listed as chemically incompatible with the polypropylene plates. Consultation with the manufacturer indicated that the toluene in the slurry was likely chemically attacking the polypropylene plates and causing them to soften and warp; then, uneven cake buildup started occurring which accelerated the process.  Fortunately, the plates could be made from alternative materials such as PVDF and Glass Filled Nylon.
 
