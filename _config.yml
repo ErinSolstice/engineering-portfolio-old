@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Patrick Herke"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'll try just about anything twice."
+  avatar : "/assets/images/bio-photo-snow.jpg"
+  bio    : "A single data point does not a pattern make. Try things more than once before deciding you don't like them."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
