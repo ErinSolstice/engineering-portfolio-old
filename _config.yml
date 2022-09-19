@@ -97,14 +97,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
+#  # _portfolio
+#  - scope:
+#      path: ""
+#      type: portfolio
+#    values:
+#      layout: single
+#      author_profile: false
+#      share: true
 
 category_archive:
   type: liquid
@@ -114,6 +114,6 @@ tag_archive:
   path: /tags/
 
 collections:
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
+#  portfolio:
+#    output: false
+#    permalink: /:collection/:path/
