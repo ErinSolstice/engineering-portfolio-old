@@ -48,7 +48,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/ErinSolstice/engineering-portfolio-hugo-toha
+  gitRepo: https://github.com/ErinSolstice/engineering-portfolio
   # Default branch of your Git repo
   gitBranch: main
 
